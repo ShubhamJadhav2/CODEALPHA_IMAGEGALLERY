@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>IMAGE GALLERY</h1>
+
+<div class="navbar">
+    <button class="nav-button" id="laptopBtn">Laptops</button>
+    <button class="nav-button" id="mobilesBtn">Mobiles</button>
+    <button class="nav-button" id="carsBtn">Cars</button>
+</div>
+
+<div id="galleryContainer" class="gallery-container" style="display: none;"></div>
+
+<div class="modal" id="imageModal">
+    <span class="close" id="closeModal">&times;</span>
+    <div class="navigation">
+        <span class="prev" id="prevImage">&#10094;</span>
+        <span class="next" id="nextImage">&#10095;</span>
+    </div>
+    <img src="" alt="Modal Image" id="modalImage">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
