@@ -7,4 +7,4 @@ Responsive layout: Designed with CSS for an elegant and mobile-friendly display.
 Interactive navigation: JavaScript-powered features for navigating between images seamlessly.
 Dynamic effects: Includes hover animations, slide transitions, or modal popups for an enhanced user experience.
 
-![image alt](https://github.com/ShubhamJadhav2/CODEALPHA_IMAGEGALLERY/blob/866c3b45060a2392417ca48d182f8177caf755b0/Image%20Gallery/ImageGalleryImg.png)
+![image alt](https://github.com/ShubhamJadhav2/CODEALPHA_IMAGEGALLERY/blob/de543ec263488fc4c5889992a83acfc7b2074c61/Image%20Gallery/ImageGalleryImg.png)
