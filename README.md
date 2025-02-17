@@ -1,4 +1,4 @@
-# CODEALPHA_IMAGEGALLERY
+# IMAGEGALLERY
 
 This project showcases an image gallery built with HTML, CSS, and JavaScript, allowing users to browse through a collection of images interactively. 
 
